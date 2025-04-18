@@ -12,7 +12,7 @@ const settings = {
   //textures
   const textureLoader = new THREE.TextureLoader();
   const photoTexture02 = textureLoader.load('7a4cbfbb-62a6-4153-af16-66996eb7ca5e.jpg');
-  const photoTexture03 = textureLoader.load('httpg');
+  const photoTexture03 = textureLoader.load('7f9a352e-0c79-466d-aca8-27663d136c05.jpg');
   const photoTexture = textureLoader.load('https://assets.codepen.io/4201020/shopp-e-1731594468645280783813006762.png');
   photoTexture.wrapS = THREE.RepeatWrapping;
   photoTexture.wrapT = THREE.RepeatWrapping;
