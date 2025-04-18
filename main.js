@@ -11,8 +11,8 @@ const settings = {
   }
   //textures
   const textureLoader = new THREE.TextureLoader();
-  const photoTexture02 = textureLoader.load('https://assets.codepen.io/4201020/city2.png?format=auto');
-  const photoTexture03 = textureLoader.load('https://assets.codepen.io/4201020/shopp-e-1731593813681771088199459824.png');
+  const photoTexture02 = textureLoader.load('7a4cbfbb-62a6-4153-af16-66996eb7ca5e.jpg');
+  const photoTexture03 = textureLoader.load('httpg');
   const photoTexture = textureLoader.load('https://assets.codepen.io/4201020/shopp-e-1731594468645280783813006762.png');
   photoTexture.wrapS = THREE.RepeatWrapping;
   photoTexture.wrapT = THREE.RepeatWrapping;
